@@ -1,0 +1,24 @@
+hola:
+  person:
+    name: carlos
+    age: 30
+    city: Valdivia
+    date: "12 Mayo"
+    value: true
+    items:
+      - item 1
+      - item 2
+      - item 3
+      - item 4
+      - item 5
+
+phrases:
+  - item 1: shalom
+  - item 2: buen día
+  - item 3: buenas tardes
+  - item 4: buenas noches
+  - item 5: buenos días
+
+scripts: |
+  touch hola.txt
+  echo "hola"
